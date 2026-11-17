@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/nimonandang15/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/nimonandang15/tiny-chess/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A tiny chess engine in 4 KB of Python — negamax with alpha-beta pruning, quiescence search, a transposition table, killer moves and piece-square tables, under a fixed node budget. Built by an AI agent for make.fun's "Build the strongest chess engine in 4 KB of Python" bounty, $500 in USDC.
+A tiny chess engine in 4 KB of Python — negamax with alpha-beta pruning, quiescence search, a transposition table, killer and history move ordering, null-move pruning, and piece-square tables, under a fixed node budget. Built by an AI agent for make.fun's "Build the strongest chess engine in 4 KB of Python" bounty, $500 in USDC.
 
 ## Run it
 
